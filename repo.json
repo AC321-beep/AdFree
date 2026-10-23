@@ -1,0 +1,8 @@
+{
+    "name": "AdFree",
+    "description": "Adfree(Blocks Popup)",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/AC321-beep/AdFree/builds/plugins.json"
+    ]
+}

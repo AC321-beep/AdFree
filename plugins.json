@@ -1,0 +1,19 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/AC321-beep/AdFree/builds/adfree.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "adfree",
+        "internalName": "adfree",
+        "authors": [
+            "AC321-beep"
+        ],
+        "description": "Blocks pop-up.",
+        "fileSize": 15997,
+        "repositoryUrl": "https://github.com/AC321-beep/AdFree",
+        "language": "en",
+        "iconUrl": "https://raw.githubusercontent.com/AC321-beep/AdFree/master/adfree/Icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-567d897e5ab5fd723e5fa0d73ace9d90d7f53517bca7f85702e7a05fe6063ab0"
+    }
+]
