@@ -1,15 +1,3 @@
 **Repo Url**: https://raw.githubusercontent.com/AC321-beep/AdFree/refs/heads/builds/repo.json
 
-**📜 License**
-
-This project is free and open-source software licensed under the GNU General Public License (GPL).
-
-⚖️ DMCA & Legal Disclaimer
-
-This project is intended for educational and research purposes only. It functions as a tool for accessing content from third-party sources and does not host, store, or distribute any media.
-
-- All content is hosted by independent third-party providers.
-- Users are solely responsible for their use of this project and for complying with applicable laws and copyright regulations.
-- All copyrights, trademarks, and other intellectual property rights belong to their respective owners.
-
-If you believe any content infringes your rights, please contact the relevant content host or provider directly, as this project has no control over third-party content.
+**ShortCode**: A321
