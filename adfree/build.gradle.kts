@@ -3,8 +3,8 @@ cloudstream {
     authors = listOf("AC321-beep")
     status = 1
     language = "en"
-    version = 14
-    iconUrl = "https://raw.githubusercontent.com/AC321-beep/DonghuaFan/refs/heads/master/Adfree/Icon.png"
+    version = 2
+    iconUrl = "https://raw.githubusercontent.com/AC321-beep/AdFree/master/adfree/Icon.png"
 }
 
 android {
