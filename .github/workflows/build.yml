@@ -10,6 +10,7 @@ on:
       - master
     paths-ignore:
       - '*.md'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -42,12 +43,6 @@ jobs:
         uses: gradle/actions/setup-gradle@v5
         
       - name: Build Plugins
-        env:
-          LIVESPORTS_FIREBASE_API_KEY: ${{ secrets.LIVESPORTS_FIREBASE_API_KEY }}
-          LIVESPORTS_FIREBASE_APP_ID: ${{ secrets.LIVESPORTS_FIREBASE_APP_ID }}
-          LIVESPORTS_FIREBASE_PROJECT_NUMBER: ${{ secrets.LIVESPORTS_FIREBASE_PROJECT_NUMBER }}
-          LIVESPORTS_PROVIDER_SECRET1: ${{ secrets.LIVESPORTS_PROVIDER_SECRET1 }}
-          LIVESPORTS_PROVIDER_SECRET2: ${{ secrets.LIVESPORTS_PROVIDER_SECRET2 }}
         run: |
           cd $GITHUB_WORKSPACE/src
           chmod +x gradlew
