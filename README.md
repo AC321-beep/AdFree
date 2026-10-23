@@ -1,4 +1,4 @@
-**Repo Url**: https://raw.githubusercontent.com/AC321-beep/DonghuaFan/refs/heads/builds/repo.json
+**Repo Url**: https://raw.githubusercontent.com/AC321-beep/AdFree/refs/heads/builds/plugins.json
 
 **📜 License**
 
