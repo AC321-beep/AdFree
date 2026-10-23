@@ -3,7 +3,7 @@ cloudstream {
     authors = listOf("AC321-beep")
     status = 1
     language = "en"
-    version = 2
+    version = 3
     iconUrl = "https://raw.githubusercontent.com/AC321-beep/AdFree/master/adfree/Icon.png"
 }
 
